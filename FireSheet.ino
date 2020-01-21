@@ -4,17 +4,17 @@
 #include <IOXhop_FirebaseESP32.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "https://example-7c0fb.firebaseio.com/"
-#define FIREBASE_AUTH "3ClyGLbqu0DZWxWzXWNuGVAKfXhIpFzSDHA4r86x"
+#define FIREBASE_HOST "Web Firebase"
+#define FIREBASE_AUTH "Firebase Auth"
 int n = 0;
 
 String readString;
-const char* ssid = "Nowzenith";
-const char* password = "nowzenith1";
+const char* ssid = "ชื่อ WiFi";
+const char* password = "รหัส WiFi";
 const char* host = "script.google.com";
 const int httpsPort = 443;
 WiFiClientSecure client;
-String GG_SHEET_ID = "AKfycbygm7Wgh1Z7n_Ze4AToHqsILqpEvrT15Eps4Lpd";
+String GG_SHEET_ID = "https://script.google.com/macros/s/เอาตรงนี้มาใส่/exec?";
 
 String NowString() {
   int getcount = 1;
