@@ -1,7 +1,7 @@
 //-----------------------------------------------
 // Author: Nowzenith
 // Email: nowzenith@gmail.com
-// Publish date: 08 Aug 2020
+// Publish date: 28 Jan 2020
 // Description: This code for ESP32 send data into Google Spreadsheet
 // GET request syntax:
 // https://script.google.com/macros/s/<gscript id>/exec?header_here=data_here
